@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/maxhado/enviatubillullo#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.16.2"
   }
 }
