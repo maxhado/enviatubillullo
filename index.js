@@ -14,7 +14,7 @@ mongoose.connect('mongodb://mojmachs:231193j@ds143678.mlab.com:43678/heroku_83f1
 
 const Cat = mongoose.model('Cat', { name: String });
 
-const kitty = new Cat({ name: 'Zildjian' });
+const kitty = new Cat({ name: 'Chichi' });
 kitty.save().then(() => console.log('meow'));
 
 
